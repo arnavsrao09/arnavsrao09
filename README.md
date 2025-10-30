@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **arnavsrao09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OSiwn0aLAYK5jvDHRH3kyEP_rU-CFzuN/view?usp=sharing](https://drive.google.com/file/d/1OSiwn0aLAYK5jvDHRH3kyEP_rU-CFzuN/view?usp=sharing)
-
 - ⚡ Fun fact **I can spend hours debugging and then realize I forgot a semicolon.**
 
 <h3 align="left">Connect with me:</h3>

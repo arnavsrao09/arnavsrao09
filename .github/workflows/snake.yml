@@ -13,14 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ IMPORTANT: Checkout repository first
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ✅ Generate snake SVG
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: arnavsrao09
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - name: Push to output branch
+      # ✅ Deploy to output branch
+      - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output

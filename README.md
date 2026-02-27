@@ -50,12 +50,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arnavsrao09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavsrao09&theme=tokyonight&hide_border=true&ring=00F7FF&fire=7B00FF" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arnavsrao09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">

@@ -50,18 +50,18 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavsrao09&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arnavsrao09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavsrao09&theme=tokyonight&hide_border=true&ring=00F7FF&fire=7B00FF" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsrao09&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsrao09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/arnavsrao09/arnavsrao09/output/snake.svg" />
 </p>
+---
 <!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B00FF&height=120&section=footer"/>

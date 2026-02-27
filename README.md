@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnavsrao09/arnavsrao09/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/arnavsrao09/arnavsrao09/output/snake-neon.svg" />
 </p>
 ---
 <!-- Footer Wave -->

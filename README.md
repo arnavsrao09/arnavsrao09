@@ -59,7 +59,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arnavsrao09/arnavsrao09/output/github-contribution-grid-snake.svg" />
+</p>
 <!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B00FF&height=120&section=footer"/>
